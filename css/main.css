@@ -63,3 +63,19 @@ html {
   .no-print {
     display: none;
   }
+
+  .inset-img {
+    border-color: #000;
+  }
+
+  .chapter-details {
+    border: #fff;
+  }
+
+  .book-ends {
+    background-color: #fff;
+    color: #000;
+    border: #fff;
+  }
+  
+}
